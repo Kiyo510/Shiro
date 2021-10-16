@@ -1,0 +1,3 @@
+[submodule "honkit_test"]
+	path = honkit_test
+	url = https://github.com/Kiyo510/honkit_test.git
